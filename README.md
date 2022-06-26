@@ -1,18 +1,18 @@
-#Project description
+**Project description
 
 
 This project is about a system, where users can manage students by enrolling them to the system, deleting and editing on their needs (simple CRUD application). 
 The project consists of two parts: Back-End and Front-End.
 
 
-#Used technologies : 
+**Used technologies : 
 * Spring Boot (used to serve backend part) 
 * MyBatis (used as data persistence technology)
 * H2(used as database of an application)
 * Angular 14(used to serve frontend part)
 * 
 
-##Frontend Setup
+**Frontend Setup
 
 
 1. Installation of Node.js (If you already have installed “node.js” skip this part)
@@ -27,6 +27,6 @@ The project consists of two parts: Back-End and Front-End.
 * Go to the browser and browse for “http://localhost:4200” to launch fully functioning web application
 
 
-Login Credentials:
-* Username: admin
-* Password:  admin
+***Login Credentials:
+* *Username:* **admin
+* *Password:*  **admin
