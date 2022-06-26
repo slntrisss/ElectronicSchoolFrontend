@@ -1,4 +1,4 @@
-**Project description
+**Project description**
 
 
 This project is about a system, where users can manage students by enrolling them to the system, deleting and editing on their needs (simple CRUD application). 
